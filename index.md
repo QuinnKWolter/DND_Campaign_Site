@@ -1,10 +1,10 @@
+## Welcome to GitHub Pages
+
 <head>
   <link href="css/iv-viewer.min.css" rel="stylesheet" type="text/css" />
   <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
   <script src="js/iv-viewer.min.js"></script>
 </head>
-
-## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/QuinnKWolter/DND_Campaign_Site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
