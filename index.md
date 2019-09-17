@@ -1,12 +1,5 @@
 ## Welcome to GitHub Pages
 
-<head>
-  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
-  <link href="css/iv-viewer.min.css" rel="stylesheet" type="text/css" />
-  
-  <script src="js/iv-viewer.min.js"></script>
-</head>
-
 You can use the [editor on GitHub](https://github.com/QuinnKWolter/DND_Campaign_Site/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
