@@ -1,8 +1,9 @@
 ## Welcome to GitHub Pages
 
 <head>
-  <link href="css/iv-viewer.min.css" rel="stylesheet" type="text/css" />
   <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  <link href="css/iv-viewer.min.css" rel="stylesheet" type="text/css" />
+  
   <script src="js/iv-viewer.min.js"></script>
 </head>
 
