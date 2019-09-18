@@ -1,0 +1,15 @@
+<html>
+	<head>
+		<link href="css/iv-viewer.min.css" rel="stylesheet" type="text/css" />
+		<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+		<script src="js/iv-viewer.min.js"></script>
+	</head>
+	<body>
+		<div id="map" data-src="img/TheMap.png" data-high-res-src="img/TheMap.png"></div>
+		<script>
+			$('#map').ImageViewer(options);
+			var viewer = $('#map').data('ImageViewer');
+			viewer.load('img/TheMap.png','img/TheMap.png');
+		</script>
+	</body>
+</html>
